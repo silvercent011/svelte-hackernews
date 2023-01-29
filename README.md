@@ -1,3 +1,5 @@
+# HackerNews client = Svelte (without kit) - TailwindCSS - Capacitor
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
